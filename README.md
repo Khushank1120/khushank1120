@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 
-- [ ] 🌱 Currently working in Golang, Angular, and AWS Projects. 
+- [ ] 🌱 Software Development Engineer at Doastly | Building with Golang, Angular & AWS 🚀
 - [ ] 🥅 2025 Goals: Get an amazing Fulltime Job !!
 
 All my projects are available at https://github.com/khushank1120?tab=repositories
