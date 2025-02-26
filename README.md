@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 
-- [ ] 🌱 Software Development Engineer Intern at Doastly (Your Pet's Favorite Startup 🐾) | Building with Golang, Angular & AWS 🚀
+- [ ] 🌱 Software Development Engineer Intern at Doastly (Your Pet's Favorite Startup 🐾) | Building with Go, Angular & AWS 🚀
 - [ ] 🥅 2025 Goals: Get an amazing Fulltime Job !!
 
 All my projects are available at https://github.com/khushank1120?tab=repositories
