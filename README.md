@@ -9,20 +9,6 @@ All my projects are available at https://github.com/khushank1120?tab=repositorie
 
 You can reach me mistry.khu@northeastern.edu
 
-### Tools & Technology Most Experinced With:
-```yaml
-{
-  "backend": ["Java" , "NodeJS" , "Spring boot" , "Python"],    
-  "frontend": {
-    "framework/library": "Angular",
-    "ui": ["HTML", "CSS","JavaScript"]
-  },
-  "database": ["MongoDB", "MySQL"],
-  "cloud": ["AWS","GCP"]        
-  "ide": ["IntelliJ", "VSCode", "Xcode", "Android Studio"],                     
-}
-```
-
 <h3 align="left">Programming Languages:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer">  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>  </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> </a> </p>
 
@@ -48,4 +34,4 @@ You can reach me mistry.khu@northeastern.edu
 
 ### Visitor Count:
 
-![Visitor Count](https://profile-counter.glitch.me/khushank1120/count.svg)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=khushank1120&label=Profile%20views&color=0e75b6&style=flat" alt="khushank1120" /> </p>
