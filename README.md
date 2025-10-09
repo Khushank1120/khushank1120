@@ -9,8 +9,6 @@ All my projects are available at https://github.com/khushank1120?tab=repositorie
 
 You can reach me mistry.khu@northeastern.edu
 
-<h2 align="center">🧠 Tech Stack</h2>
-
 <h3 align="left">💬 Programming Languages</h3>
 <p align="left">
   <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -29,8 +27,6 @@ You can reach me mistry.khu@northeastern.edu
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/>
   </a>
 </p>
-
----
 
 <h3 align="left">⚙️ Frameworks & Libraries</h3>
 <p align="left">
@@ -56,8 +52,6 @@ You can reach me mistry.khu@northeastern.edu
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
   </a>
 </p>
-
----
 
 <h3 align="left">☁️ Cloud & DevOps Tools</h3>
 <p align="left">
