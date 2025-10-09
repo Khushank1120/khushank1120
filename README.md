@@ -2,10 +2,9 @@
 
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg">
 
-- [ ] 🌱 Software Development Engineer Intern at Doastly (Your Pet's Favorite Startup 🐾) | Building with Go, Angular & AWS 🚀
-- [ ] 🥅 2025 Goals: Get an amazing Fulltime Job !!
+- 🌱 Software Development Engineer at Doastly (Your Pet's Favorite Startup 🐾) | Building with Go, Angular & AWS 🚀
 
-All my projects are available at https://github.com/khushank1120?tab=repositories
+All my projects are available at [GitHub](https://github.com/khushank1120?tab=repositories) [GitHub - University](https://github.com/khushank20?tab=repositories)
 
 You can reach me mistry.khu@northeastern.edu
 
@@ -71,13 +70,6 @@ You can reach me mistry.khu@northeastern.edu
     <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="40" height="40"/>
   </a>
 </p>
-
-### Connect with Me:
-
-[<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
-[![Gmail](https://img.shields.io/badge/-gmail-%23D14836?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:khushankmistry@gmail.com)
-
-[linkedin]: https://www.linkedin.com/in/khushankmistry/
 
 ### Visitor Count:
 
