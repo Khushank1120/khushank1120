@@ -4,7 +4,7 @@
 
 - 🌱 Software Development Engineer at Doastly (Your Pet's Favorite Startup 🐾) | Building with Go, Angular & AWS 🚀
 
-All my projects are available at [GitHub](https://github.com/khushank1120?tab=repositories) [GitHub - University](https://github.com/khushank20?tab=repositories)
+All my projects are available at [GitHub](https://github.com/khushank1120?tab=repositories) | [GitHub - University](https://github.com/khushank20?tab=repositories)
 
 You can reach me mistry.khu@northeastern.edu
 
