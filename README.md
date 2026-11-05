@@ -64,11 +64,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushank1120&theme=tokyonight" alt="GitHub Stats" height="170"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushank1120&theme=tokyonight" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=khushank1120&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
