@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Khushank</h1>
-<h3 align="center">Software Development Engineer building scalable backends and clean frontends</h3>
+<h3 align="center">Software Engineer building scalable backends and cloud infrastructure</h3>
 
 <p align="center">
   <a href="mailto:khushankmistry@gmail.com"><img src="https://img.shields.io/badge/Email-khushankmistry%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -51,7 +51,7 @@
 **☁️ Cloud & DevOps**
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" title="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" alt="Google Cloud" title="Google Cloud" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" title="Docker" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" title="Kubernetes" width="40" height="40"/>&nbsp;
@@ -64,8 +64,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khushank1120&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khushank1120&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=khushank1120&theme=tokyonight" alt="GitHub Stats" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=khushank1120&theme=tokyonight" alt="Top Languages" height="170"/>
 </p>
 
 <p align="center">
