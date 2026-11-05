@@ -7,7 +7,7 @@ Building with Go, Kubernetes, Docker, AWS, GCP & Alibaba Cloud.
 📫 [khushankmistry@gmail.com](mailto:khushankmistry@gmail.com) · [Projects](https://github.com/khushank1120?tab=repositories) · [University Projects](https://github.com/khushank20?tab=repositories)
 
 <br/>
-<img src="https://skillicons.dev/icons?i=go,java,ts,js,swift,angular,react,redux,spring,nodejs,express,graphql,aws,gcp,docker,kubernetes,jenkins&perline=17" alt="Tech stack"/>
+<img src="https://skillicons.dev/icons?i=go,java,ts,swift,angular,redux,springboot,graphql,aws,gcp,docker,kubernetes,jenkins&perline=17" alt="Tech stack"/>
 <br/><br/>
 <img src="https://streak-stats.demolab.com?user=khushank1120&theme=transparent&hide_border=true&background=00000000" alt="GitHub Streak"/>
 
